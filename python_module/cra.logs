@@ -1,0 +1,11 @@
+2024-02-15 05:02:57,649 INFO  my_custom_logger[28529] <module> [12345]: This is a test log message
+2024-02-15 05:02:57,649 INFO  my_custom_logger[28529] print_logs [thread1-abcd]: Test log from print function
+2024-02-15 05:02:57,649 INFO  my_custom_logger[28529] print_logs [thread2-qwerty]: Test log from print function
+2024-02-15 05:03:57,381 INFO  my_custom_logger[28549] <module> [12345]: This is a test log message
+2024-02-15 05:03:57,381 INFO  my_custom_logger[28549] print_logs [thread1-abcd]: Test log from print function
+2024-02-15 05:03:57,381 INFO  my_custom_logger[28549] print_logs [thread2-qwerty]: Test log from print function
+2024-02-15 05:03:57,381 INFO  my_custom_logger[28549] print_logs [thread3-12345]: Test log from print function
+2024-02-15 05:04:19,371 INFO  my_custom_logger[28553] <module> [12345]: This is a test log message
+2024-02-15 05:04:19,371 INFO  my_custom_logger[28553] print_logs [thread1-abcd]: Test log from print function
+2024-02-15 05:04:19,371 INFO  my_custom_logger[28553] print_logs [thread2-qwerty]: Test log from print function
+2024-02-15 05:04:19,371 INFO  my_custom_logger[28553] print_logs []: Test log from print function
